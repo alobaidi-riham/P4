@@ -1,0 +1,17 @@
+.header{
+    height:30px;
+    width:100%;
+    background-color: rgba(245, 241, 241, 0.918);
+    
+}
+.ul1 li { 
+   display: inline;
+   float:right;
+  margin-right:30px;
+ 
+  
+}
+.a1, .a2,.a3,.a4{
+    color: rgba(150, 45, 3, 0.856); 
+    text-decoration: none;
+}
